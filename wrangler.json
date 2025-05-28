@@ -1,0 +1,9 @@
+{
+  "name": "astro-demo",
+  "compatibility_date": "2025-05-28",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "binding": "ASSETS",
+    "directory": "./dist"
+  }
+}
