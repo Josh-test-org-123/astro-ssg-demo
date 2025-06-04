@@ -1,5 +1,5 @@
 {
-  "name": "astro-demo",
+  "name": "astro-ssg-demo",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
