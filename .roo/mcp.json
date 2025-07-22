@@ -1,8 +1,9 @@
 {
   "mcpServers": {
     "cloudflare-docs": {
-      "type": "remote",
-      "url": "https://docs.mcp.cloudflare.com/sse"
+      "type": "streamable-http",
+      "url": "https://docs.mcp.cloudflare.com/mcp",
+      "disabled": false
     }
   }
 }
